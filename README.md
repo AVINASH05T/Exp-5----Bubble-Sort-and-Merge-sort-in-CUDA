@@ -413,4 +413,4 @@ int main() {
         </tbody>
     </table>
 ## RESULT:
-Thus, the program has been executed using CUDA to ________________.
+Thus, the program has been executed using CUDA .
